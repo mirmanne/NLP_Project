@@ -1,0 +1,31 @@
+NMF Result on GoogleNewsAPi
+
+Topic #0:
+year old polic say man offic charg arrest report ap
+
+Topic #1:
+trump presid donald iran hous said campaign washington white administr
+
+Topic #2:
+news abc broadcast coverag video break interview exclus onlin world
+
+Topic #3:
+hack subreddit hardwar dedic hacker construct hat learn idea grey
+
+Topic #4:
+new game star nintendo york season like final releas video
+
+Topic #5:
+read subscript free purchas articl continu requir roanok period thank
+
+Topic #6:
+compani million fund billion facebook tech use market ceo technolog
+
+Topic #7:
+cup world women team match group nation win state thailand
+
+Topic #8:
+biden democrat joe candid presidenti vice iowa presid senat debat
+
+Topic #9:
+hong kong protest extradit china citi govern law demonstr allow
